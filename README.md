@@ -1,6 +1,6 @@
 # Hack the World
 
-## 版权所有，转载必须写明出处(https://github.com/UEFI-code/Hack-the-World 或 https://hacker233.com/?page_id=77)
+## 版权所有，转载必须写明出处(https://github.com/UEFI-code/Hack-the-World)
 
 ## 我们（正在浏览此页面的你）的世界是“真实”的，还是“虚拟”的？
 
