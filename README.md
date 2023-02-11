@@ -2,7 +2,7 @@
 
 [Chinese Version](README-CN.md)
 
-## Is our world ' real ' or ' virtual ' ? Our world is ' real ' or ' virtual ' ? 
+## Is our world ' real ' or ' virtual ' ?
  
 Imagine a person ( God ) with powerful computing conditions running a virtual machine at the particle level (PVM, used to describe the smallest matter that forms the universe, if there is one that can be changed to another term ), and setting some hyperparameters ( such as the speed of light ), after a complex reaction to form today 's world what is the probability of such a thing ? 
  
