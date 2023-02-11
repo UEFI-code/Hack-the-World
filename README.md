@@ -46,7 +46,7 @@ The interrupt source received by the rendering thread may be more than the locat
 
 High-speed particles consume a large amount of computing power quotas due to the thread that updates its position in the universe. Therefore, the computing power quota of the rendering thread in the group is not much, and it is slower than the low-speed particles. 
  
-We see the volume reduction, may be seen incomplete rendering. Will we still see the skip frame ? 
+We see the volume reduction, may be seen incomplete rendering. Will we also see the skip frame ? And Will we also figure out the Rendering sequential?S
  
 In addition, when the timer interrupt frequency is higher than the limit of the calculation force, some interrupt signals will be missed ( the next interrupt comes and the last one has not been processed ), which may be the reason why we cannot reach the speed of light. Even if the console sets a particle as the maximum speed allowed by the timer, it cannot actually be reached. 
  
